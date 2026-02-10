@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "fileURL": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf",
   "fileSizeBytes": 1202590843,
-  "sha256": "b12f008f3eaff90dd598fa726bc175c66ddc649f3ccc8dd2d33b134fcf8e331a",
+  "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
   "minimumAppVersion": "1.0.0"
 }
